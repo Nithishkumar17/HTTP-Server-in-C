@@ -8,6 +8,13 @@ This project is ideal for understanding basic web server architecture, socket pr
 
 ---
 
+# Minimal C-Based Server
+
+A lightweight TCP server written in C, designed to run on **Linux-based systems**.  
+It demonstrates basic socket programming concepts such as socket creation, binding, listening, and handling client connections.
+
+---
+
 ## Features
 
 - Multi-threaded: One detached thread per client connection  
